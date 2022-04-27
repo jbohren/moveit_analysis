@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>moveit_analysis</name>
+  <version>0.0.0</version>
+  <description>A package with tools for analyzing robots with moveit.</description>
+
+  <maintainer email="jonathan.bohren@gmail.com">Jonathan Bohren</maintainer>
+
+  <license>apache2</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <buildtool_depend>ament_cmake_python</buildtool_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
